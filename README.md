@@ -29,16 +29,29 @@ Hey, I'm **Rakesh Soni**. I enjoy building for the web, experimenting with creat
 
 I'm drawn to **cinematic design, animation, and experiences that feel playful**. Outside code, I like stories, fiction, and imagining worlds of my own.
 
-```yaml
-player: Rakesh Soni
-location: India
-main_quest: Build things worth exploring
-side_quests:
-  - Creative web development
-  - AI and automation experiments
-  - Motion and interactive storytelling
-play_style: Learn by building
-```
+<table>
+  <tr>
+    <td width="32%" align="center" valign="middle">
+      <h1>🧑‍🚀</h1>
+      <h3>RAKESH SONI</h3>
+      <p><b>PLAYER 01</b><br /><sub>Creative Developer · India</sub></p>
+      <img src="https://img.shields.io/badge/MODE-EXPLORER-22D3EE?style=for-the-badge&amp;labelColor=0D1117" alt="Mode: Explorer" />
+    </td>
+    <td width="68%" valign="top">
+      <h3>🎯 MAIN QUEST</h3>
+      <p>Build things worth exploring.</p>
+      <h3>🧭 SIDE QUESTS</h3>
+      <p>🌐 Creative web development<br />🤖 AI and automation experiments<br />🌌 Motion and interactive storytelling</p>
+      <p><b>Play style:</b> Learn by building &nbsp; · &nbsp; <b>Next unlock:</b> Three.js</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="#-explore-my-projects"><img src="https://img.shields.io/badge/01-SELECT_A_PROJECT-22D3EE?style=for-the-badge&amp;labelColor=0D1117" alt="Select a project" /></a>
+  <a href="#-my-loadout"><img src="https://img.shields.io/badge/02-VIEW_LOADOUT-A78BFA?style=for-the-badge&amp;labelColor=0D1117" alt="View loadout" /></a>
+  <a href="mailto:rakeshsoni48128@gmail.com"><img src="https://img.shields.io/badge/03-CO--OP_INVITE-F472B6?style=for-the-badge&amp;labelColor=0D1117" alt="Email a collaboration invitation" /></a>
+</p>
 
 ## ⚔️ My Loadout
 
@@ -105,12 +118,35 @@ play_style: Learn by building
 
 <p align="right"><a href="https://github.com/rakeshsoniiii?tab=repositories"><b>Open the full collection →</b></a></p>
 
-## 🚀 Active Quests
+## 🚀 Quest Board
 
-- Bring more **motion and personality** into my web projects.
-- Explore **3D scenes and interactions** with Three.js.
-- Experiment with **AI tools and useful automation**.
-- Keep improving through projects, feedback, and collaboration.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌌 Into the Third Dimension</h3>
+      <p>Explore Three.js, 3D scenes, and interactive camera movement.</p>
+      <p><b>Skill to unlock:</b> Creative 3D development</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Make It Move</h3>
+      <p>Experiment with cinematic scrolling and expressive web animation.</p>
+      <p><b>Skill to unlock:</b> Motion storytelling</p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>🎁 Open the bonus quest</b></summary>
+
+<br />
+
+**Build something small that solves one real problem.**
+
+Try a reusable widget, a useful automation, or an interaction that makes someone smile. Keep it focused, finish it, and share what you learned.
+
+[Explore my experiments →](https://github.com/rakeshsoniiii?tab=repositories)
+
+</details>
 
 ## 🧠 How I Like to Build
 

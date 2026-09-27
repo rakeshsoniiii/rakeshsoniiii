@@ -1,125 +1,157 @@
-<!-- Profile repository: rakeshsoniiii/rakeshsoniiii -->
-<!-- Header, typing animation, and badges use external image services. -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:164E63,100:22D3EE&amp;height=220&amp;section=header&amp;text=RAKESH%20SONI&amp;fontSize=54&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=DEVELOPER%20%2F%20FOUNDER%20%2F%20BUILDER&amp;descSize=15&amp;descAlignY=58" width="100%" alt="Rakesh Soni — Developer, Founder, Builder" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050914,40:164E63,75:4F46E5,100:22D3EE&amp;height=260&amp;section=header&amp;text=RAKESH%20SONI&amp;fontSize=60&amp;fontColor=FFFFFF&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=PLAYER%2001%20%2F%20CODE.%20CREATE.%20EXPLORE.&amp;descSize=16&amp;descAlignY=61" width="100%" alt="Rakesh Soni — animated neon header: Player 01, Code, Create, Explore" />
 </p>
 
-<h1 align="center">Ideas deserve to be built.</h1>
+<h1 align="center">Hey, I'm Rakesh 👋</h1>
+
+<h3 align="center">Building my next level.</h3>
 
 <p align="center">
-  I turn ideas into websites, learning experiences, and useful digital products.<br />
-  Building <b>Skill Nexis</b> &amp; <b>Nexis Solutions</b> · Based in India
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3000&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=From+first+idea+to+live+product.;Web+experiences+with+personality.;Learning.+Building.+Shipping.+Repeating." alt="From first idea to live product. Web experiences with personality. Learning, building, shipping, repeating." />
+  <b>Web developer · Creative coder · Curious storyteller</b><br />
+  Turning ideas into interactive experiences, one project at a time.
 </p>
 
 <p align="center">
-  <a href="https://nexis-solutions.antideploy.com/"><img src="https://img.shields.io/badge/EXPLORE_MY_AGENCY-22D3EE?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1117" alt="Explore Nexis Solutions" /></a>
-  <a href="https://skillnexis.in/"><img src="https://img.shields.io/badge/SKILL_NEXIS-8B5CF6?style=for-the-badge&amp;logo=bookstack&amp;logoColor=white" alt="Visit Skill Nexis" /></a>
-  <a href="mailto:business.nexissolutions@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=22D3EE" alt="Email me about a project" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=2800&amp;pause=1000&amp;color=55DDEF&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Writing+code.+Creating+worlds.;Exploring+motion+and+interactive+web+experiences.;Always+learning.+Always+building." alt="Writing code. Creating worlds. Exploring motion and interactive web experiences. Always learning. Always building." />
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/rakeshsoniiii/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Personal Instagram" /></a>
+  <a href="https://www.linkedin.com/in/rakeshsoniiii/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="Personal LinkedIn" /></a>
+  <a href="mailto:rakeshsoni48128@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&amp;logo=gmail&amp;logoColor=55DDEF" alt="Email Rakesh" /></a>
 </p>
 
 ---
 
-### 01 / The person behind the projects
+## 🎮 Player Profile
 
-Hey, I'm **Rakesh** — a developer and founder who enjoys taking an idea from a rough sketch to something people can use.
+Hey, I'm **Rakesh Soni**. I enjoy building for the web, experimenting with creative interfaces, and figuring out how things work by making them.
 
-My work brings together **web development, product thinking, and creative design**. I'm especially interested in interfaces that feel memorable, tools that remove repetitive work, and technology that makes learning more accessible.
+I'm drawn to **cinematic design, animation, and experiences that feel playful**. Outside code, I like stories, fiction, and imagining worlds of my own.
 
-- **Building:** Skill Nexis and Nexis Solutions.
-- **Exploring:** AI assistants, workflow automation, and interactive web experiences.
-- **Open to:** Website projects, product collaborations, and creative development.
-- **Beyond code:** Stories, fiction, and the art of keeping people curious.
+```yaml
+player: Rakesh Soni
+location: India
+main_quest: Build things worth exploring
+side_quests:
+  - Creative web development
+  - AI and automation experiments
+  - Motion and interactive storytelling
+play_style: Learn by building
+```
 
-> Good products start with a real problem — and get better every time someone uses them.
+## ⚔️ My Loadout
 
-### 02 / What I'm building
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&amp;theme=dark" alt="HTML, CSS, JavaScript, React, and Vite" />
+</p>
+
+### Tools &amp; Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,supabase,git,github,vercel&amp;theme=dark" alt="Python, Supabase, Git, GitHub, and Vercel" />
+</p>
+
+### Next Skills to Unlock
+
+<p>
+  <img src="https://img.shields.io/badge/Three.js-Exploring-111827?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=55DDEF" alt="Exploring Three.js" />
+  <img src="https://img.shields.io/badge/3D_Web-Experiences-111827?style=for-the-badge&amp;labelColor=164E63" alt="3D web experiences" />
+  <img src="https://img.shields.io/badge/Motion-Design-111827?style=for-the-badge&amp;labelColor=4C1D95" alt="Motion design" />
+</p>
+
+## 🗺️ Explore My Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 Skill Nexis</h3>
-      <p><b>A place to learn by building.</b></p>
-      <p>An online internship and training platform focused on practical learning, projects, and skill development.</p>
-      <p><code>Education</code> <code>Projects</code> <code>Learning</code></p>
-      <p><a href="https://skillnexis.in/"><b>Explore Skill Nexis →</b></a></p>
+      <h3>💌 Luv-Notes</h3>
+      <p><code>JavaScript</code></p>
+      <p><a href="https://github.com/rakeshsoniiii/Luv-Notes"><b>Explore the code →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Nexis Solutions</h3>
-      <p><b>Web experiences built around a business.</b></p>
-      <p>My development agency for business websites, landing pages, e-commerce experiences, and custom web projects.</p>
-      <p><code>Web Development</code> <code>Design</code> <code>Business</code></p>
-      <p><a href="https://nexis-solutions.antideploy.com/"><b>Explore Nexis Solutions →</b></a></p>
+      <h3>🌀 Cool-Scrolls</h3>
+      <p><code>HTML</code></p>
+      <p><a href="https://github.com/rakeshsoniiii/Cool-Scrolls"><b>Explore the code →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕵️ Detective-L</h3>
+      <p><code>JavaScript</code></p>
+      <p><a href="https://github.com/rakeshsoniiii/Detective-L"><b>Explore the code →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌌 Taarro</h3>
+      <p><code>JavaScript</code></p>
+      <p><a href="https://github.com/rakeshsoniiii/Taarro"><b>Explore the code →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 Widgets</h3>
+      <p><code>HTML</code></p>
+      <p><a href="https://github.com/rakeshsoniiii/Widgets"><b>Explore the code →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI-Life-detection-</h3>
+      <p><code>Python</code></p>
+      <p><a href="https://github.com/rakeshsoniiii/AI-Life-detection-"><b>Explore the code →</b></a></p>
     </td>
   </tr>
 </table>
 
-### 03 / My development toolkit
+<p align="right"><a href="https://github.com/rakeshsoniiii?tab=repositories"><b>Open the full collection →</b></a></p>
 
-<p><b>Interfaces &amp; frontend</b></p>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&amp;logo=css&amp;logoColor=639" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&amp;logo=vite&amp;logoColor=646CFF" alt="Vite" />
-</p>
+## 🚀 Active Quests
 
-<p><b>Data, automation &amp; delivery</b></p>
-<p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&amp;logo=supabase&amp;logoColor=3FCF8E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Apps_Script-0D1117?style=for-the-badge&amp;logo=googleappsscript&amp;logoColor=4285F4" alt="Google Apps Script" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=FFFFFF" alt="Vercel" />
-</p>
+- Bring more **motion and personality** into my web projects.
+- Explore **3D scenes and interactions** with Three.js.
+- Experiment with **AI tools and useful automation**.
+- Keep improving through projects, feedback, and collaboration.
 
-### 04 / From my repositories
+## 🧠 How I Like to Build
 
-<!-- Repository names and languages taken from the supplied profile screenshot. -->
+| Stage | My focus |
+| :--- | :--- |
+| **Imagine** | Find an idea that makes me curious. |
+| **Prototype** | Get a small version working. |
+| **Develop** | Turn the experiment into something useful. |
+| **Refine** | Improve the details, usability, and experience. |
+| **Repeat** | Take what I learned into the next project. |
 
-| Project | Language | Source |
-| :--- | :--- | :--- |
-| **Luv-Notes** | JavaScript | [Explore repository ↗](https://github.com/rakeshsoniiii/Luv-Notes) |
-| **Cool-Scrolls** | HTML | [Explore repository ↗](https://github.com/rakeshsoniiii/Cool-Scrolls) |
-| **Detective-L** | JavaScript | [Explore repository ↗](https://github.com/rakeshsoniiii/Detective-L) |
-| **Taarro** | JavaScript | [Explore repository ↗](https://github.com/rakeshsoniiii/Taarro) |
-| **Widgets** | HTML | [Explore repository ↗](https://github.com/rakeshsoniiii/Widgets) |
-| **AI-Life-detection-** | Python | [Explore repository ↗](https://github.com/rakeshsoniiii/AI-Life-detection-) |
+<details>
+<summary><b>📜 Unlock a little more about me</b></summary>
 
-<p align="right"><a href="https://github.com/rakeshsoniiii?tab=repositories"><b>Browse all repositories →</b></a></p>
+<br />
 
-### 05 / What's next
+I like the space where **code meets storytelling**: a small interaction, an unexpected detail, or an interface that makes someone want to explore.
 
-- **AI & automation:** Exploring assistants that help with everyday business workflows.
-- **Creative development:** Experimenting with motion, scroll interactions, and storytelling on the web.
-- **Learning experiences:** Improving how people practise skills and showcase their work.
+I'm open to collaborating on web projects and creative experiments. If you're building something interesting, I'd love to hear about it.
+
+</details>
 
 ---
 
-<h2 align="center">Have an idea worth building?</h2>
+<h2 align="center">🤝 Ready for a Co-op Mission?</h2>
 
 <p align="center">
-  A business website, a product concept, or a creative collaboration.<br />
-  <b>Let's turn the first conversation into a first version.</b>
+  Have a creative idea or an interesting project?<br />
+  <b>Let's build something worth exploring.</b>
 </p>
 
 <p align="center">
-  <a href="mailto:business.nexissolutions@gmail.com"><img src="https://img.shields.io/badge/PROJECT_ENQUIRIES-22D3EE?style=for-the-badge&amp;logo=gmail&amp;logoColor=0D1117" alt="Project enquiries" /></a>
-  <a href="https://www.linkedin.com/in/rakeshsoniiii/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="https://www.instagram.com/nexis.solutions_/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Nexis Solutions on Instagram" /></a>
+  <a href="mailto:rakeshsoni48128@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-55DDEF?style=for-the-badge&amp;logo=gmail&amp;logoColor=05101A" alt="Start a conversation" /></a>
 </p>
 
 <p align="center">
-  <a href="mailto:rakeshsoni48128@gmail.com">Personal contact</a> ·
-  <a href="mailto:business.nexissolutions@gmail.com">Business enquiries</a> ·
-  <a href="https://github.com/rakeshsoniiii?tab=repositories">Explore my code</a>
+  <a href="https://www.instagram.com/rakeshsoniiii/">Instagram</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/rakeshsoniiii/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:rakeshsoni48128@gmail.com">Email</a>
 </p>
 
-<p align="center"><sub>Built with curiosity. Improved with every iteration.</sub></p>
+<p align="center"><sub>No final level. Just the next thing to learn.</sub></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:164E63,100:22D3EE&amp;height=100&amp;section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050914,50:155E75,100:6366F1&amp;height=100&amp;section=footer" width="100%" alt="" />
